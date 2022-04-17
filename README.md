@@ -1,1 +1,1 @@
-# This repo is used to store Jupyter Notebook from 
+# This repo is used to store Jupyter Notebook from Coursera course.
